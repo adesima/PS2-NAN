@@ -55,8 +55,10 @@ Folosim SMTP2GO pentru trimiterea alertelor:
 ## 📸 Capturi de ecran
 
 - Dashboard Arduino IoT Cloud
+  
 ![image](https://github.com/user-attachments/assets/165e1ff2-b844-427e-ae6d-840e9c75af1a)
 - Montaj circuit
+  
 ![image](https://github.com/user-attachments/assets/02e052af-ee16-4db2-9886-e8475ba16382)
 
 
