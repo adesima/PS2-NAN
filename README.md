@@ -65,9 +65,9 @@ Folosim SMTP2GO pentru trimiterea alertelor:
 ## 👨‍💻 Autori
 
 - **Adelin-Sebastian Sima** - student la Universitatea Politehnica Timișoara, Facultatea de Automatică și Calculatoare, specializarea Ingineria Sistemelor, anul 3
-- ***Viorel-Gabriel Pichler*** - student la Universitatea Politehnica Timișoara, Facultatea de Automatică și Calculatoare, specializarea Ingineria Sistemelor, anul 3
+- **Viorel-Gabriel Pichler** - student la Universitatea Politehnica Timișoara, Facultatea de Automatică și Calculatoare, specializarea Ingineria Sistemelor, anul 3
 
-## 📜 Licență
+## 📜 Licenta
 
 Proiect făcut pentru a servi la proiectul sincretic 2 din anul 3 de facultate, publicat cu scop educațional. Poți folosi liber codul pentru învățare sau proiecte personale.
 
